@@ -43,7 +43,7 @@ These solutions can be used directly or as example code. Both KijiMR and the Kij
 included with distributions of Kiji BentoBox.
 
 In the sections of this guide that follow, the core job types will be explained in greater detail.
-Motiviation, example code snippets, and (where appropriate) a description of reference
+Motivation, example code snippets, and (where appropriate) a description of reference
 implementations in the KijiMR Library will be given for each. This guide also contains an in-depth
 description of how to use  _KeyValueStores_ to expose side-data stored in HDFS and Kiji through a
 consistent interface to your MapReduce jobs. Finally, this guide contains a description of the
